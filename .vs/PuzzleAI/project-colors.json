@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "672d216d-bcd4-432e-b021-07c0c2b32cab": {
+      "ProjectGuid": "672d216d-bcd4-432e-b021-07c0c2b32cab",
+      "DisplayName": "PuzzleAI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
